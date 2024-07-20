@@ -16,7 +16,7 @@ FINA0031131001.01
 ```
 
 :::info 注意
-由于&thinsp;Weebly&thinsp;的网页文件使用了从&thinsp;google.com&thinsp;域名下的&thinsp;URL&thinsp;获取的&thinsp;javascript&thinsp;代码段，而该域名在中国大陆受到&thinsp;DNS&thinsp;污染，所以某些链接可能打不开。
+由于&thinsp;Weebly&thinsp;的网页文件使用了从&thinsp;google.com&thinsp;域名下的&thinsp;URL&thinsp;获取的&thinsp;JavaScript&thinsp;代码段，而该域名在中国大陆受到&thinsp;DNS&thinsp;污染，所以某些链接可能打不开。
 :::
 
 <br></br>
