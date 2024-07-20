@@ -1,0 +1,8 @@
+{
+  "label": "计算",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "回归、因果推断、机器学习"
+  }
+}
