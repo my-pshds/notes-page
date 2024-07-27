@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `欢迎你在${new Date().getFullYear()}年${new Date().getMonth()}月访问本站！
+        copyright: `欢迎你在${new Date().getFullYear()}年访问本站！
                     如果有任何链接失效，可在源代码库提出 Issue`,
       },
       prism: {
