@@ -6,10 +6,10 @@
     <style type="text/css">
         @font-face {
             font-family: "SimSun";
-            src: url("./fonts/SIMSUNB.TTF") format("truetype");
+            src: url("../fonts/SIMSUNB.TTF");
         }
     </style>
-  <font id="SimSun" horiz-adv-x="1000">
+    <font id="SimSun" horiz-adv-x="1000">
     <font-face font-family="SimSun" units-per-em="1000" ascent="800" descent="200"/>
     <font-face-src>
           <font-face-uri xlink:href="./fonts/SIMSUNB.TTF" />
