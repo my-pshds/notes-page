@@ -60,8 +60,12 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      // Replace with your project's social card
+    {
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 6,
@@ -121,13 +125,13 @@ const config = {
           },
         ],
         copyright: `欢迎你在${new Date().getFullYear()}年访问本站！
-                    如果有任何链接失效，可在源代码库提出 Issue`,
+                    如果有任何链接失效，可在源代码库提出&thinsp;Issue`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-    }),
+    },
 };
 
 export default config;
