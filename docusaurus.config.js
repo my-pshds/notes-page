@@ -106,19 +106,19 @@ const config = {
             ],
           },
           {
-            title: '文件复制库',
+            title: '跨域链接',
             items: [
               {
-                label: '现代数学',
-                href: 'https://github.com/Cynthian-pshds/modernmath',
+                label: 'ORCiD',
+                href: 'https://orcid.org/0009-0005-7502-6576',
               },
             ],
           },
           {
-            title: '跨站链接',
+            title: '域内跨站链接',
             items: [
               {
-                label: '回到主站',
+                label: '回到域名主页',
                 to: 'https://pengxianzhe.org',
               },
             ],
