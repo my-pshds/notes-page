@@ -1,4 +1,9 @@
 zggdjjs:
   label: 中国古代经济史
   permalink: /zggdjjs
-  description: 聚焦古典中国的农业经济与手工业商品经济
+  description: 古典中国的农业与手工业商品经济
+  
+zggdzzs:
+  label: 中国古代政治史
+  permalink: /zggdzzs
+  description: 古典中国的官僚和国家
