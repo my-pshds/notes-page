@@ -9,4 +9,4 @@ sidebar_position: 1
 
 &#8195;&#8195;如果要查看我的&thinsp;**[ORCiD](https://orcid.org/0009-0005-7502-6576)**&thinsp;信息，请单击或在在页面下方查找跨域链接。
 
-如果要查看[随笔](https://academic.pengxianzhe.org/blog)，可点击页面下方 “学科随笔” 跳转。
+&#8195;&#8195;如果要查看[随笔](https://academic.pengxianzhe.org/blog)，可点击页面下方 “学科随笔” 跳转。
