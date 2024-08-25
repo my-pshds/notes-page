@@ -11,20 +11,20 @@ sidebar_position: 3
 &#8195;&#8195;例如：
 
 ```markdown title="xxx.md"
-zzz
+xxx
 
-[xxx](yyy)
+[域名主页](http://pengxianzhe.org)
 
-zzz
+xxx
 ```
 
 &#8195;&#8195;显示效果：
 
-zzz
+xxx
 
-[xxx](yyy)
+[域名主页](http://pengxianzhe.org)
 
-zzz
+xxx
 
 &#8195;&#8195;在搜索框搜索 “zzz” 会显示两个结果，但无论搜索 “xxx” 还是 “yyy” 都不会显示任何结果。
 
