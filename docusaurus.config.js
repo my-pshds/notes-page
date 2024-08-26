@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Cynthian-pshds', // Usually your GitHub org/user name.
+  projectName: 'academic-pengxianzhe', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,15 +66,17 @@ const config = {
         appId: 'RMUHPWGGGA',
   
         // Public API key: it is safe to commit it
-        apiKey: 'b68aac6bd4b72acadedb095ddb504bfa',
-  
-        indexName: 'academic-pengxianzhe',
-  
-        // Optional: see doc section below
-        contextualSearch: false,
+        apiKey: 'a8e5ce96a1570f8bffbdb087003d6396',
+        
+        siteId:'8f5a5934-abf1-4f5a-bb21-fac8e10335eb',
 
+        branch: 'main',
+
+        selector: 'div#search',
+
+        indexName: 'YOUR_INDEX_NAME',
       },
-      
+
       colorMode: {
         defaultMode: 'light',
         disableSwitch: true,
@@ -105,6 +107,7 @@ const config = {
             label: '源代码',
             position: 'right',
           },
+
         ],
       },
       footer: {
