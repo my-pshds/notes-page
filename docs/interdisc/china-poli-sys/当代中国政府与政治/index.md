@@ -1,14 +1,12 @@
 ---
-
 title: 景陈肖_第二版 | 看书
-
 description: 当代中国政府与政治
-
+sidebar_position: 2
 ---
 
-| 景跃进、陈明明、肖滨、谈火生、于晓虹 | [《当代中国政府与政治》](https://www.dps.tsinghua.edu.cn/info/1197/3110.htm) |
-| --- | --- |
-| 中国人民大学出版社 | 第二版 | 
+|景跃进、陈明明、肖滨、谈火生、于晓虹|[《当代中国政府与政治》](https://www.dps.tsinghua.edu.cn/info/1197/3110.htm) |
+|---|---|
+|中国人民大学出版社|第二版| 
 
 ```text title="ISBN"
 978-7-300-32847-8
