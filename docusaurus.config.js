@@ -34,30 +34,25 @@ const config = {
     locales: ['zh'],
   },
 
-  presets: [
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          routeBasePath: '/',
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-
+    presets: [
+      [
+        '@docusaurus/preset-classic',
+        {
+          docs: {
+            routeBasePath: '/',
+            sidebarPath: './sidebars.js',
+          },
+          blog: {
+            showReadingTime: true,
+            // Please change this to your repo.
+            // Remove this to remove the "edit this page" links.
+          },
+          theme: {
+            customCss: ['./src/css/custom.css'],
+          },
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-        },
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
+      ],
     ],
-  ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     {
@@ -75,24 +70,13 @@ const config = {
         contextualSearch: false,
         
         },
-  
-        // Optional: Algolia search parameters
-        searchParameters: {},
-  
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-  
-        // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
-        insights: false,
-  
-        //... other Algolia params
-      },
 
       colorMode: {
         defaultMode: 'light',
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
+
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 6,
@@ -160,6 +144,6 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     },
-};
+  }
 
 export default config;
