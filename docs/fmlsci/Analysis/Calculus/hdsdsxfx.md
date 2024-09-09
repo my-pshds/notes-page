@@ -1,5 +1,5 @@
 ---
-title: 华东师大数学分析III | 看书
+title: 华东师大数学分析 (三) | 看书
 description: 凭借简单挽救了很多高考数学两位数的学生
 sidebar_position: 4
 ---
