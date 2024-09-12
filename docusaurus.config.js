@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://academic.pengxianzhe.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -56,12 +56,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     {
-
-      algolia: {
-        apiKey: "79d5d08d40b593d56734f882bd059ca4",
-        indexName: "academic-docsearch",
-        appId: "KGUUS917VN",
-      },
 
       colorMode: {
         defaultMode: 'light',
