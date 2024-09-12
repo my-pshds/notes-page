@@ -13,6 +13,8 @@ tags: [zggdzzs]
 
 &#8195;&#8195;[**欧立德**](https://scholar.harvard.edu/elliott)的主张，经[**沈卫荣**](https://www.zhongwen.tsinghua.edu.cn/info/1171/1393.htm)总结如下： 
 
+<!-- truncate -->
+
 | 清史研究必须 |
 | ------ |
 | 重视清朝的 “内亚维度” ( Inner Asian Dimension ) ，强调满清统治的内亚性质 |
