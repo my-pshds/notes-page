@@ -96,7 +96,7 @@ const config = {
           {to: '/category/理论', label: '理论', position: 'left'},
           {to: '/category/形式科学', label: '形式科学', position: 'left'},
           {to: '/category/计算', label: '计算', position: 'left'},
-          {to: '/category/计算', label: '随笔', position: 'right'},
+          {to: '/blog', label: '随笔', position: 'right'},
           
           {
             href: 'https://github.com/Cynthian-pshds/academic-page',
