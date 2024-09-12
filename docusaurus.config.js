@@ -62,7 +62,7 @@ const config = {
         appId: '54KRBKBH0T',
   
         // Public API key: it is safe to commit it
-        apiKey: '4608af6d912c50b77443b64829052cb8',
+        apiKey: 'e935ddad5144dd2f8243e5cc79658cd1',
   
         indexName: 'academic-pengxianzhe',
   
@@ -96,6 +96,7 @@ const config = {
           {to: '/category/理论', label: '理论', position: 'left'},
           {to: '/category/形式科学', label: '形式科学', position: 'left'},
           {to: '/category/计算', label: '计算', position: 'left'},
+          {to: '/category/计算', label: '随笔', position: 'right'},
           
           {
             href: 'https://github.com/Cynthian-pshds/academic-page',
@@ -138,8 +139,8 @@ const config = {
                 href: 'https://www.researchgate.net/profile/Xianzhe-Peng',
               },
               {
-                label: '源代码',
-                to: 'https://github.com/Cynthian-pshds/academic-page',
+                label: 'GitHub',
+                href: 'https://github.com/Cynthian-pshds/',
               },
             ],
           },
@@ -148,11 +149,11 @@ const config = {
             items: [
               {
                 label: '回到域名主页',
-                to: 'https://pengxianzhe.org',
+                href: 'https://pengxianzhe.org',
               },
               {
                 label: '基础教育网页',
-                to: 'https://education.pengxianzhe.org',
+                href: 'https://education.pengxianzhe.org',
               },
               
             ],
