@@ -64,7 +64,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: 'e935ddad5144dd2f8243e5cc79658cd1',
   
-        indexName: 'academic-pengxianzhe-66cc1eefaa767b0036e8d745',
+        indexName: 'academic-pengxianzhe',
   
         // Optional: see doc section below
         contextualSearch: true,
