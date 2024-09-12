@@ -115,6 +115,11 @@ const config = {
                 label: '学科随笔',
                 to: '/blog',
               },
+              {
+                label: '站内首页',
+                to: '/',
+              },
+              
             ],
           },
           {
@@ -123,6 +128,18 @@ const config = {
               {
                 label: 'ORCiD',
                 href: 'https://orcid.org/0009-0005-7502-6576',
+              },
+              {
+                label: 'Zotero',
+                href: 'https://www.zotero.org/pengxianzhe',
+              },
+              {
+                label: 'ResearchGate',
+                href: 'https://www.researchgate.net/profile/Xianzhe-Peng',
+              },
+              {
+                label: '源代码',
+                to: 'https://github.com/Cynthian-pshds/academic-page',
               },
             ],
           },
@@ -133,6 +150,11 @@ const config = {
                 label: '回到域名主页',
                 to: 'https://pengxianzhe.org',
               },
+              {
+                label: '基础教育网页',
+                to: 'https://education.pengxianzhe.org',
+              },
+              
             ],
           },
         ],
