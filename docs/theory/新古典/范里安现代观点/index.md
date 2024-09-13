@@ -1,6 +1,7 @@
 ---
 title: 范里安 现代观点 | 听课
 description: "Intermediate Microeconomics: A Modern Approach"
+sidebar_position: 2
 ---
 |授课教师|[姚羽欣](https://yuxinyao.weebly.com/)|
 |------------|-----------------------|
