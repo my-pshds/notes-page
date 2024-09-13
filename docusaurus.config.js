@@ -57,6 +57,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     {
 
+      algolia: {
+        appId: "MU8MMAXGJ6",
+        apiKey: "7aa15501475a6a6fd6ef8a3beeb06f81",
+        indexName: "academic-pengxianzhe",
+      },
+
       colorMode: {
         defaultMode: 'light',
         disableSwitch: true,
