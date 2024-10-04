@@ -34,7 +34,7 @@ export default function Home() {
     <Layout
       title={`欢迎浏览彭显哲的${siteConfig.title}`
       }
-      description="Description will go into a meta tag in <head />">
+      description="Peng Xianzhe's Academic Website">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
