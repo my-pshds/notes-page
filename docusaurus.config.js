@@ -86,7 +86,7 @@ const config = {
           {to: '/category/应用', label: '应用', position: 'left'},
           {to: '/category/交叉', label: '交叉', position: 'left'},
           {to: '/category/理论', label: '理论', position: 'left'},
-          {to: '/category/形式科学', label: '形式科学', position: 'left'},
+          {to: '/category/形式', label: '形式', position: 'left'},
           {to: '/category/计算', label: '计算', position: 'left'},
           {to: '/blog', label: '随笔', position: 'right'},
           
@@ -151,7 +151,7 @@ const config = {
             ],
           },
         ],
-        copyright: `欢迎你在${new Date().getFullYear()}年访问本站！
+        copyright: `欢迎你在&thinsp;${new Date().getFullYear()}&thinsp;年访问本站&thinsp;！
                     如果有任何链接失效，可在源代码库提出&thinsp;Issue`,
       },
       prism: {
