@@ -123,17 +123,9 @@ const config = {
                 href: 'https://orcid.org/0009-0005-7502-6576',
               },
               {
-                label: 'Zotero',
-                href: 'https://www.zotero.org/pengxianzhe',
-              },
-              {
-                label: 'ResearchGate',
-                href: 'https://www.researchgate.net/profile/Xianzhe-Peng',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/Cynthian-pshds/',
-              },
+                label:"ResearchGate",
+                href:"https://www.researchgate.net/profile/Xianzhe-Peng"
+              }
             ],
           },
           {
