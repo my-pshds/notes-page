@@ -3,9 +3,8 @@ title: 范里安 现代观点 | 听课
 description: "Intermediate Microeconomics: A Modern Approach"
 sidebar_position: 2
 ---
-|授课教师|[姚羽欣](https://yuxinyao.weebly.com/)|
-|------------|-----------------------|
 |学年学期|2023-2024学年第一学期|
+|------------|-----------------------|
 |自然学期|2023年秋季学期|
 |正式名称|中级微观经济学|
 |使用教材|哈尔&thinsp;·&thinsp;范里安《微观经济学：现代观点》|
