@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '学科网页 | Academic Pages',
-  tagline: '笔记 | 代码 | 草稿 | 随笔 | 以后可能还会有预印本',
+  title: '学科网页｜Academic Pages',
+  tagline: '笔记｜代码｜草稿｜随笔',
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
@@ -102,26 +102,22 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '站内链接',
+            title: '本域本站',
             items: [
               {
-                label: '学科随笔',
+                label: '随笔｜Blog',
                 to: '/blog',
               },
               {
-                label: '站内首页',
+                label: 'Home｜入口',
                 to: '/',
               },
               
             ],
           },
           {
-            title: '跨域链接',
+            title: '跨域跨站',
             items: [
-              {
-                label: 'ORCiD',
-                href: 'https://orcid.org/0009-0005-7502-6576',
-              },
               {
                 label:"ResearchGate",
                 href:"https://www.researchgate.net/profile/Xianzhe-Peng"
@@ -129,17 +125,16 @@ const config = {
             ],
           },
           {
-            title: '域内跨站链接',
+            title: '本域跨站',
             items: [
               {
-                label: '回到域名主页',
-                href: 'https://pengxianzhe.org',
+                label: 'ＣＶ｜标准化',
+                href: 'https://cv.pengxianzhe.org',
               },
               {
-                label: '基础教育网页',
-                href: 'https://education.pengxianzhe.org',
-              },
-              
+                label: 'Profile｜名片',
+                href: 'https://link.pengxianzhe.org',
+              }
             ],
           },
         ],
