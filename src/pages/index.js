@@ -39,7 +39,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`欢迎浏览彭显哲的${siteConfig.title}`
+      title={`欢迎浏览${siteConfig.title}`
       }
       description="Peng Xianzhe's Academic Website">
       <HomepageHeader />
