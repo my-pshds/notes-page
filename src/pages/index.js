@@ -22,6 +22,13 @@ function HomepageHeader() {
             to="/category/说明书">
             快速开始浏览
           </Link>
+          &emsp;&emsp;&emsp;&emsp;
+          <Link
+            className="button button--secondary button--lg"
+            to="/blog">
+            栏目｜BLOG
+          </Link>
+
         </div>
       </div>
     </header>
