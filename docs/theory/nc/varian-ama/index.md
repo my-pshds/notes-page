@@ -1,6 +1,6 @@
 ---
 title: 范里安 现代观点 | 听课
-description: "Intermediate Microeconomics: A Modern Approach"
+description: "中级微观：A Modern Approach"
 sidebar_position: 2
 ---
 |学年学期|2023-2024学年第一学期|
