@@ -128,12 +128,12 @@ const config = {
             title: '本域跨站',
             items: [
               {
-                label: 'ＣＶ｜标准化',
-                href: 'https://cv.pengxianzhe.org',
-              },
-              {
                 label: 'Profile｜名片',
                 href: 'https://link.pengxianzhe.org',
+              },
+              {
+                label: 'Vitae｜ＣＶ',
+                href: 'https://cv.pengxianzhe.org',
               }
             ],
           },
