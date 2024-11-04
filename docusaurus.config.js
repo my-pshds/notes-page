@@ -105,12 +105,8 @@ const config = {
             title: '本域本站',
             items: [
               {
-                label: '专栏｜Blog',
-                to: '/blog',
-              },
-              {
-                label: 'Home｜入口',
-                to: '/',
+                label: '专栏作者',
+                to: '/blog/authors',
               },
               
             ],
@@ -119,18 +115,14 @@ const config = {
             title: '跨域跨站',
             items: [
               {
-                label:"ResearchGate",
-                href:"https://www.researchgate.net/profile/Xianzhe-Peng"
+                label: 'Profile｜名片',
+                href: 'https://link.pengxianzhe.org',
               }
             ],
           },
           {
             title: '本域跨站',
             items: [
-              {
-                label: 'Profile｜名片',
-                href: 'https://link.pengxianzhe.org',
-              },
               {
                 label: 'Vitae｜ＣＶ',
                 href: 'https://cv.pengxianzhe.org',
