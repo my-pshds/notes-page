@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '学科网页｜Academic Pages',
-  tagline: '笔记｜代码｜草稿｜随笔',
+  tagline: '笔记｜代码｜草稿｜专栏',
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
@@ -88,7 +88,7 @@ const config = {
           {to: '/category/理论', label: '理论', position: 'left'},
           {to: '/category/形式', label: '形式', position: 'left'},
           {to: '/category/计算', label: '计算', position: 'left'},
-          {to: '/blog', label: '随笔', position: 'right'},
+          {to: '/blog', label: '专栏', position: 'right'},
           
           {
             href: 'https://github.com/Cynthian-pshds/academic-page',
@@ -105,7 +105,7 @@ const config = {
             title: '本域本站',
             items: [
               {
-                label: '随笔｜Blog',
+                label: '专栏｜Blog',
                 to: '/blog',
               },
               {
