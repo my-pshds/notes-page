@@ -1,6 +1,6 @@
 ---
 title: 普林斯顿分析读本 | 看书
-description: 挽救被 Rudin 折磨的人
+description: 挽救遭 Rudin 折磨的人
 sidebar_position: 3
 ---
 

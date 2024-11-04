@@ -1,6 +1,6 @@
 ---
-title: 华东师大数学分析 (三) | 看书
-description: 被指定最广的分析入门教材
+title: ECNU 数学分析 III | 听课
+description: 华东师大统计学院－王亚平《数学分析III》
 sidebar_position: 4
 ---
 
