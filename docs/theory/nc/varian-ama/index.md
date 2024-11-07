@@ -1,7 +1,7 @@
 ---
 title: 听课－范里安现代观点
 description: "Microeconomics：A Modern Approach"
-sidebar_position: 2
+sidebar_position: 3
 ---
 |学年学期|2023-2024学年第一学期|
 |------------|-----------------------|
