@@ -46,7 +46,8 @@ const config = {
             remarkPlugins: [remarkMath],
             rehypePlugins: [
               [rehypeKatex, {
-                strict: false
+                strict: false,
+                output: "htmlAndMathml"
               }]
             ],
           },
