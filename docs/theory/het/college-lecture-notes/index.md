@@ -1,5 +1,6 @@
 ---
 title: 听课 | 本科
+description: 听华东师大经济系王媛老师讲课
 toc_min_heading_level: 2
 toc_max_heading_level: 5
 hide_title: true
@@ -87,7 +88,7 @@ ECON0031131042.01
 
 ![gghzgjjzzqj](gghzgjjzzqj.png)
 
-### 1.4 关于本课程
+### 1.4 关于此课程
 
 #### 课程学习要求
 

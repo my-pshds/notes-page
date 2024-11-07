@@ -1,6 +1,6 @@
 ---
 slug: nshthnjzq
-title: 南宋以降环太湖农业技术进步要素增强
+title: 南宋以降环太湖农业技术进步之要素增强
 description: 土地增强型，而非劳动增强型
 authors: pxz
 tags: [zggdjjs]
