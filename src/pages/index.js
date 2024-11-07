@@ -22,13 +22,14 @@ function HomepageHeader() {
             to="/category/说明书">
             快速开始浏览
           </Link>
-          &emsp;&emsp;&emsp;&emsp;
+        </div>
+        <p></p>
+        <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/blog">
             专栏｜BLOG
           </Link>
-
         </div>
       </div>
     </header>

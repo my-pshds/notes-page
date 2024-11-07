@@ -10,8 +10,8 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '学科网页｜Academic Pages',
-  tagline: '笔记｜代码｜草稿｜专栏',
+  title: '学科网页',
+  tagline: '笔记｜代码｜草稿',
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here

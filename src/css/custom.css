@@ -21,9 +21,6 @@
 .col.col--3 {
   --ifm-col-width: calc(2.3/12* 100%);
 }
-.col.col--7 {
-  --ifm-col-width: calc(7.3/12* 100%);
-}
 .col.col--2 {
   --ifm-col-width: calc(2.4/12* 100%);
 }
