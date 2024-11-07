@@ -11,7 +11,7 @@ tags: [zggdzzs]
 
 ## 新清史主要观点及内涵
 
-&#8195;&#8195;[**欧立德**](https://scholar.harvard.edu/elliott)的主张，经[**沈卫荣**](https://www.zhongwen.tsinghua.edu.cn/info/1171/1393.htm)总结如下： 
+[**欧立德**](https://scholar.harvard.edu/elliott)的主张，经[**沈卫荣**](https://www.zhongwen.tsinghua.edu.cn/info/1171/1393.htm)总结如下： 
 
 <!-- truncate -->
 
