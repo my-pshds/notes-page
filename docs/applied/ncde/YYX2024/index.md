@@ -1,6 +1,8 @@
 ---
-title: 初级入门 | 听课
-description: 任课教师：华东师大经济系 姚羽欣
+title: 初级入门｜听课
+description: 华东师大经济系 姚羽欣
+hide_title: true
+title_meta: 发展经济学
 ---
 
 |学年学期|2024-2025学年第一学期|
