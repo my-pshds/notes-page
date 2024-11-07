@@ -7,43 +7,38 @@
 /* You can override the default Infima variables here. */
 
 :root { 
-  --doc-sidebar-width: 250px !important;
-  --ifm-col-width: 1200px ;
-  --doc-toc-inner-width: 270px !important;
-  --doc-toc-outer-width: 285px !important;
-  --ifm-container-width: 900px !important;
-  --ifm-container-width-xl: 1400px !important;
-  --total-width: 1200px !important;
+  --doc-sidebar-width: 227px !important;
+  --doc-toc-width: 280px !important;
+  --ifm-container-width: 945px !important;
+  --ifm-container-width-xl: 2200px !important;
 }
 
+.container.padding-top--md.padding-bottom--lg {
+  margin-left: 0;
+}
+
+/* 这是blog的三栏 */
 .col.col--3 {
-  --ifm-col-width: calc(2/12* 100%);
+  --ifm-col-width: calc(2.3/12* 100%);
+}
+.col.col--7 {
+  --ifm-col-width: calc(7.3/12* 100%);
+}
+.col.col--2 {
+  --ifm-col-width: calc(2.4/12* 100%);
 }
 
+/* 这是doc的内部目录*/
 .tableOfContents_bqdL.thin-scrollbar.theme-doc-toc-desktop {
-  width: var(--doc-toc-outer-width);
+  width: var(--doc-toc-width);
 }
 
-.tableOfContents_bqdL.thin-scrollbar {
-  width: var(--doc-toc-outer-width);
-}
-
-.table-of-contents {
-  width: var(--doc-toc-inner-width);
-}
-
-.footer_copyright {
-  width: var(--total-width)
-}
-.row {
-  width: var(--total-width)
-}
+/* 这是blog作者头像旁的三排 */
 .margin-bottom--sm.row {
   width: 300px
 }
-
-.row.margin-top--sm.theme-blog-footer-edit-meta-row {
-  width: var(--ifm-container-width)
+.authorDetails_lV9A {
+  width: 200px
 }
 
 /*
@@ -54,21 +49,14 @@
   }
 */
 
-.container-fluid{
+/*.container-fluid{
   margin-left: 0px
-}
+}*/
 
-.container.margin-vert--lg {
+/*.container.margin-vert--lg {
   margin-left: 20px
-}
+}*/
 
-.authorDetails_lV9A {
-  width: 200px
-}
-
-.container.padding-top--md.padding-bottom--lg {
-  margin-left: 20px;
-}
 
 
 :root {
