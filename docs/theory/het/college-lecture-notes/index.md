@@ -1,6 +1,6 @@
 ---
 title: 听课 | 本科
-description: 听华东师大经济系王媛老师讲课
+description: 本科听课笔记＆预习＆复习
 toc_min_heading_level: 2
 toc_max_heading_level: 5
 hide_title: true
@@ -8,7 +8,7 @@ title_meta: 经济思想史
 ---
 
 |学年学期|2024-2025学年第一学期|
-|---|---|
+|:---:|:---:|
 |自然学期|2024年秋季学期|
 |正式名称|经济思想史|
 |使用教材|课件|

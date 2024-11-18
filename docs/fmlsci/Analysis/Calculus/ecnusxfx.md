@@ -1,6 +1,6 @@
 ---
 title: ECNU 数学分析 III | 听课
-description: 统计学院上课
+description: 本科听课笔记＆预习＆复习
 sidebar_position: 4
 ---
 

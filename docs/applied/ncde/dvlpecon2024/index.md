@@ -1,6 +1,6 @@
 ---
 title: 初级入门｜听课
-description: 听华东师大经济系姚羽欣老师讲课
+description: 本科听课笔记＆预习＆复习
 hide_title: true
 title_meta: 发展经济学
 ---
