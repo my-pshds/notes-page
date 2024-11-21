@@ -1,0 +1,8 @@
+position: 0
+label: 说明书
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 说明书＆帮助＆使用指南
+  description: 如果说明书没有解决你的疑惑，可在源代码库提 Issue

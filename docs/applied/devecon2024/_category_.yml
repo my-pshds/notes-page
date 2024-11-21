@@ -1,0 +1,8 @@
+position: 2
+label: Dev Econ 2024
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 新古典发展经济学
+  description: 我在甲辰年秋季学期修读这门课的笔记｜任课教师是华东师大经济系 Faculty 姚羽欣

@@ -1,0 +1,8 @@
+position: 5
+label: 计算
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 有集成电路参与之运算
+  description: 回归、模拟、因果推断、机器学习

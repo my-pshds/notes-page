@@ -1,6 +1,6 @@
 ---
-title: 因果推断初级入门 | 看书
-description: 邱嘉平《因果推断实用计量方法》
+title: 基本信息＆导论
+description: 第一章及其之前
 sidebar_position: 2
 ---
 
@@ -10,12 +10,6 @@ sidebar_position: 2
 |时间|2020年夏季|
 |出版方|上海财经大学出版社|
 |语言|Stata|
-
-## 前摇
-
-## 线性回归
-
-## 标准误
 
 ## 处置效应
 

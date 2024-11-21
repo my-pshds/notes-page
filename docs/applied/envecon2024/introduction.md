@@ -1,6 +1,6 @@
 ---
-title: 初级入门 | 听课
-description: 本科听课笔记＆预习＆复习
+title: 导论
+description: 第一周上课
 title_meta: 环境经济学
 ---
 

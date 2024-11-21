@@ -1,8 +1,0 @@
-{
-  "label": "说明书",
-  "position": 0,
-  "link": {
-    "type": "generated-index",
-    "description": "如果说明书没有解决你的疑惑，可在源代码库提 issue"
-  }
-}

@@ -1,0 +1,8 @@
+position: 1
+label: 计量经济学
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 经济计量｜Econometrics
+  description: 形式科学的工程应用之重视经济含义
