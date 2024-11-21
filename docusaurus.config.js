@@ -41,6 +41,7 @@ const config = {
         '@docusaurus/preset-classic',
         {
           docs: {
+            sidebarCollapsed: true,
             routeBasePath: '/',
             sidebarPath: './sidebars.js',
             remarkPlugins: [remarkMath],
