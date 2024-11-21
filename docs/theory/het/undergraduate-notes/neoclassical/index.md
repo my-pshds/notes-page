@@ -4,6 +4,7 @@ sidebar_position: 5
 toc_min_heading_level: 2
 toc_max_heading_level: 5 
 hide_title: true
+description: 边际主义者吸收了一些古典学派思想
 ---
 
 ## Alfred Marshall
