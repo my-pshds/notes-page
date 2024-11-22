@@ -1,0 +1,8 @@
+position: 4
+label: 形式
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 形式科学｜Formal Science
+  description: 关注抽象形态，涉及到的可能有数学、统计和计算机科学

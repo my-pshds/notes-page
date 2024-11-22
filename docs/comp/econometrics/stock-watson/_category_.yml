@@ -1,0 +1,8 @@
+position: 3
+label: 斯托克＆沃森
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 斯托克计量导论｜看书
+  description: 这是我甲辰年秋季学期修读本科入门课《计量经济学》的教材，任课教师是华东师大企业管理（或称产业经济学）Faculty 沈超海

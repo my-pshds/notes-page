@@ -3,7 +3,7 @@ title: 导论
 sidebar_position: 1
 description: 最先两周上课
 toc_min_heading_level: 2
-toc_max_heading_level: 5 
+toc_max_heading_level: 5
 hide_title: true
 title_meta: 经济思想史简介
 ---

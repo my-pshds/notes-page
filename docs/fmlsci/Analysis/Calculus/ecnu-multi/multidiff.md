@@ -1,10 +1,10 @@
 ---
-title: ECNU 数学分析 III | 听课
-description: 本科听课笔记＆预习＆复习
+title: 多元微分
+description: 第十六章到第十八章
 sidebar_position: 4
 ---
 
-&#8195;&#8195;以下内容的直接参考依据是老师上课用的幻灯片
+&emsp;&emsp;以下内容的直接参考依据是老师上课用的幻灯片
 
 ## 16 多元函数的极限与连续
 

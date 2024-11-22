@@ -1,0 +1,8 @@
+position: 1
+label: 分析入门
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 分析入门｜Calculus
+  description: 基础课｜上至谢惠民，下至托马斯

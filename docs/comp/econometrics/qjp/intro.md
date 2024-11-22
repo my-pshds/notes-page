@@ -1,7 +1,8 @@
 ---
-title: 介绍和外传
+title: 介绍
 description: 基本信息和场外故事
 sidebar_position: 0.5
+hide_title: true
 ---
 |作者|邱嘉平|
 |:---|:---|

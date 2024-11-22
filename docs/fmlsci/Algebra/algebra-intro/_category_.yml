@@ -1,0 +1,8 @@
+position: 1
+label: 代数入门
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 代数入门｜Intro Algebra
+  description: 基础课 | 矩阵论 & 线性方程组

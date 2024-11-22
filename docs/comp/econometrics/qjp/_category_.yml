@@ -4,5 +4,5 @@ collapsible: true # make the category collapsible
 collapsed: true # keep the category open by default
 link:
   type: generated-index
-  title: 因果推断入门 | 看书
-  description: 邱嘉平《因果推断实用计量方法》
+  title: 邱嘉平因果推断｜看书
+  description: 邱嘉平《因果推断实用计量方法》，学完算术四件套（工科水平的微积分、矩阵论、初等概率论、统计基础）就能看懂
