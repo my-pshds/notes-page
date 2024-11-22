@@ -1,7 +1,7 @@
 ---
-title: 普林斯顿分析读本 | 看书
-description: 挽救遭 Rudin 折磨的人
-sidebar_position: 3
+title: 背景信息
+description: 关于这本书
+sidebar_position: 0.5
 ---
 
 &emsp;&emsp;这**套**书的原标题叫做 Lifesaver，《普林斯顿读本》是中文译本给它另取的名字。原作者并没有任何用普林斯顿的名号来博取关注的意图。另取名字可能是为在中国市场的销售考虑（不一定是译者决定的，也可能是出版社）。  

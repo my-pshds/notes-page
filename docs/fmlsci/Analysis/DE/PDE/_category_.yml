@@ -1,0 +1,8 @@
+position: 2
+label: 偏微分方程
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 偏微分方程｜PDE
+  description: 暂时没想好简介写什么
