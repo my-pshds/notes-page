@@ -1,0 +1,8 @@
+position: 1
+label: 应用
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 现当代实际问题之社会科学应用
+  description: 聚焦居民部门微观行为决策

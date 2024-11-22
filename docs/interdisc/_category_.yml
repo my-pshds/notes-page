@@ -1,0 +1,8 @@
+position: 2
+label: 交叉
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 社会科学内部学科交叉
+  description: 中国经济史 & 计量史学

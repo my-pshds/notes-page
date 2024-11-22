@@ -1,0 +1,8 @@
+position: 11
+label: 中国政治制度
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 中国政治制度｜CHN Poli. Sys.
+  description: 全国核心政权从古到今的政治制度

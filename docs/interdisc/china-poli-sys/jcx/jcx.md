@@ -1,5 +1,5 @@
 ---
-title: 景陈肖_第二版 | 看书
+title: 景陈肖 第二版 | 看书
 description: 当代中国政府与政治
 sidebar_position: 2
 ---

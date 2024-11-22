@@ -1,0 +1,8 @@
+position: 1
+label: 新古典
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: Neoclassical Economics
+  description: 第一代新古典经济学｜边际效益与边际成本，瓦尔拉斯全局均衡｜剑桥资本争论输家，之后企图通过转移视线到实证主义革命掩盖丑态

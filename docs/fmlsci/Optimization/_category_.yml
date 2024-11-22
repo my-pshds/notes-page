@@ -1,0 +1,8 @@
+position: 3
+label: 优化
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 最优化｜Optimization
+  description: 数学工具在各行各业的最核心应用

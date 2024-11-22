@@ -1,0 +1,8 @@
+position: 3
+label: 黄彪 2022
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 黄彪《现代古典经济学》看书
+  description: 中国人民大学经济学院 Faculty 黄彪《现代古典经济学：固定资本、稀缺与增长》
