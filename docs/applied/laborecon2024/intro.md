@@ -1,6 +1,6 @@
 ---
 title: 导论
-description: 基本信息＆第一周上课
+description: 关于这门课＆第一周上课
 hide_title: true
 ---
 

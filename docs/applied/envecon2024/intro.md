@@ -1,6 +1,6 @@
 ---
 title: 导论
-description: 第一周上课
+description: 关于这门课＆第一周上课
 title_meta: 环境经济学
 ---
 
