@@ -1,0 +1,8 @@
+position: 3
+label: 理论
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 社会科学理论
+  description: 理论经济学 | 社会学理论 | 政治学理论 | 各学科思想史

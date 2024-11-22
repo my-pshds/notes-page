@@ -1,0 +1,8 @@
+position: 4
+label: 学科思想史
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: Hist. of Disc. Thought
+  description: 社会科学各学科的理论演化历程

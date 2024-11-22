@@ -1,8 +1,7 @@
 ---
 title: 十九世纪社会主义
 sidebar_position: 3
-description: 动态观察资本主义
-toc_min_heading_level: 2
+description: 教材第九章和第十章
 toc_max_heading_level: 5
 hide_title: true
 ---

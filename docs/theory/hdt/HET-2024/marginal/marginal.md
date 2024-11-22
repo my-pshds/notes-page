@@ -1,9 +1,8 @@
 ---
 title: 边际学派
 sidebar_position: 4
-toc_min_heading_level: 2
 toc_max_heading_level: 5 
-description: 反对社会主义的经济学派
+description: 教材第十二章至第十四章
 hide_title: true
 ---
 
