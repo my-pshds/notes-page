@@ -6,7 +6,8 @@ hide_title: true
 
 ## 名词解释｜定义
 
-如果将现代社会的市场抽象为  
+如果将现代社会的市场抽象为
+
 $$
 \begin{align*}
 \begin{cases}
