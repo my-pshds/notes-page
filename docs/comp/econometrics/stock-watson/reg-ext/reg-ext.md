@@ -3,3 +3,66 @@ title: 回归进阶
 description: 第十章到第十四章
 sidebar_position: 3
 ---
+
+## 面板数据回归
+
+## 二元被解释变量回归
+
+### 线性概率模型
+
+### 专用模型
+
+### 案例应用
+
+## 工具变量回归
+
+### 引入
+
+:::info[]
+
+:::
+
+### 模型
+
+`内生` &emsp;与 $u$ 相关的变量  
+`外生` &emsp;与 $u$ 无关的变量
+
+#### 必要条件
+
+$$
+\begin{align*}
+\text{工具变量相关条件/工具相关性}
+&\quad \operatorname{corr}(Z_i,X_i)&\neq 0
+\\
+\text{工具变量外生条件/工具外生性}
+&\quad \operatorname{corr}(Z_i,u_i)&=0
+\end{align*}
+$$
+
+以上式子有点问题（书上的写法），因为 $\operatorname{corr}$ 仅考虑了线性情形，所以像下面这样写更好
+
+$$
+\begin{align*}
+\text{非独立} \quad
+&E(Z_i X_i) &\neq 0 
+\\
+\text{独立} \quad \quad
+&E(Z_i u_i) &= 0
+\\
+\end{align*}
+$$
+其中，下两行比上两行更弱
+
+#### 2SLS
+
+
+
+### 检查效果
+
+### 案例应用
+
+
+
+### 怎么找
+
+## 实验和准实验
