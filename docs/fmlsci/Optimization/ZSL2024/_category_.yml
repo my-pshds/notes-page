@@ -1,0 +1,8 @@
+position: 3
+label: 本科凸优化｜听课
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 本科凸优化｜听课
+  description: 我在甲辰年秋季修读《最优化方法》的笔记｜任课教师是华东师大统计学院 Faculty 张思亮
