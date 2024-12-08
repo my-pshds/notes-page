@@ -154,7 +154,7 @@ const config = {
             ],
           },
         ],
-        copyright: `本站创建在&thinsp;2024&thinsp;年&thinsp;4&thinsp;月，多谢你在&thinsp;${new Date().getFullYear()}&thinsp;年&thinsp;${new Date().getMonth() + 1}&thinsp;月&thinsp;${new Date().getDate()}&thinsp;日到访
+        copyright: `本站创建在&thinsp;2024&thinsp;年&thinsp;4&thinsp;月，最近一次更新是&thinsp;${new Date().getFullYear()}&thinsp;年&thinsp;${new Date().getMonth() + 1}&thinsp;月&thinsp;${new Date().getDate()}&thinsp;日
         <br>如果有任何链接失效，可在源代码库提出&thinsp;Issue`,
       },
       prism: {
