@@ -1,22 +1,26 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import React from 'react';
+import { useColorMode } from '@docusaurus/theme-common';
 
 const FeatureList = [
   {
     title: '形式科学',
-    Svg: require('@site/static/img/形式科学.svg').default,
+    SvgLight: require('@site/static/img/形式科学.svg').default,
+    SvgDark: require('@site/static/img/形式科学_dark.svg').default,
     description: (
       <>
         分析｜函数论 & 微分方程 <br></br>
         代数｜矩阵论 & 线性代数 <br></br>
-        优化｜凸问题 & 更优算法 <br></br>
+        优化｜凸基础 & 动态规划 <br></br>
       </>
     ),
   },
   {
     title: '社会科学',
-    Svg: require('@site/static/img/社会科学.svg').default,
+    SvgLight: require('@site/static/img/社会科学.svg').default,
+    SvgDark: require('@site/static/img/社会科学_dark.svg').default,
     description: (
       <>
         应用｜劳动经济学 & 家庭决策<br></br>
@@ -27,7 +31,8 @@ const FeatureList = [
   },
   {
     title: '工程技术',
-    Svg: require('@site/static/img/工程技术.svg').default,
+    SvgLight: require('@site/static/img/工程技术.svg').default,
+    SvgDark: require('@site/static/img/工程技术_dark.svg').default,
     description: (
       <>
         验证计算｜看关系 & 因果推断<br></br>
@@ -38,7 +43,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+
+
+function Feature({ SvgLight, SvgDark, title, description}) {
+  const { colorMode } = useColorMode();
+  const Svg = colorMode === 'dark' ? SvgDark : SvgLight;
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

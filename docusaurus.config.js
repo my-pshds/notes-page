@@ -99,7 +99,7 @@ const config = {
       },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '标题',
+        title: undefined,
         hideOnScroll: true,
         logo: {
           alt: '图片加载失败',
