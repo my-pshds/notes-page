@@ -89,7 +89,7 @@ const config = {
 
       colorMode: {
         defaultMode: 'light',
-        disableSwitch: true,
+        disableSwitch: false,
         respectPrefersColorScheme: false,
       },
 
@@ -99,10 +99,14 @@ const config = {
       },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '',
+        title: '标题',
+        hideOnScroll: true,
         logo: {
           alt: '图片加载失败',
           src: 'img/eightcharacters.svg',
+          srcDark: 'img/eightdark.svg',
+          href: '/',
+          target: '_blank'
         },
         items: [
                    
