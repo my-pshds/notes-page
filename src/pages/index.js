@@ -42,7 +42,7 @@ export default function Home() {
     <Layout
       title={`欢迎来客`
       }
-      description="PengXianZhe's Academic Website">
+      description="PengXianZhe's Note's Website">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

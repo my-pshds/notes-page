@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://academic.pengxianzhe.org',
+  url: 'https://notes.pengxianzhe.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -119,7 +119,7 @@ const config = {
           {to: '/blog', label: '专栏', position: 'right'},
           
           {
-            href: 'https://github.com/Cynthian-pshds/academic-page',
+            href: 'https://github.com/Cynthian-pshds/notes-page/',
             label: '源代码',
             position: 'right',
           },
