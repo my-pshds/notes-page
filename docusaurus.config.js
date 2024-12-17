@@ -152,8 +152,8 @@ const config = {
             title: '本域跨站',
             items: [
               {
-                label: 'Vitae｜ＣＶ',
-                href: 'https://cv.pengxianzhe.org',
+                label: 'Profile',
+                href: 'https://profile.pengxianzhe.org',
               }
             ],
           },
