@@ -10,7 +10,7 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '学科网页',
+  title: '抄抄写写的学科网页',
   tagline: '笔记｜代码｜草稿',
   favicon: 'img/favicon.svg',
 
