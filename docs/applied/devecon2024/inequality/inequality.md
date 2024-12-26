@@ -2,6 +2,7 @@
 title: 不平等
 description: 收入不平等和其他机会不平等
 sidebar_position: 7
+toc_max_heading_level: 3
 ---
 
 ## 度量方法
@@ -52,4 +53,64 @@ CHIP近几年暂停没做了
 
 ## 阶级流动性
 
-## 社会议题
+阶级固化严重的国家，收入基尼系数更大
+
+阶级固化越严重的国家，大学回报率越高
+
+[Zhang, Junsen, “A Survey on Income Inequality in China,” Journal of Economic Literature, 59 (2021), 1191–1239.
+](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20201495)
+
+## 不平等＆经济增长
+
+### Kuznets 曲线
+
+定义式 $\text{ratio} = \sum |y_i-p_i|$ $\quad i$ 是收入从低到高的第 $i$ 个人
+
+对于 Kuznets 曲线出现可能原因的讨论：  
+随着市场化的扩展，资本的变现和互换变得更加灵活和多样，因此比较容易带来新的财富；  
+
+随着收入水平的提高，资产的影响越来越小，人力资本的作用越来越大，而人力资本的积累较资本的积累来得容易一些，因而其差距比资产的差距要小很多
+
+### 不平等影响经济增长
+
+#### 不平等限制市场大小
+
+边际消费倾向（因而平均消费倾向）随着收入的增加而下降  
+收入向高收入者集中，则全社会的消费倾向下降
+
+#### 不平等阻碍企业的发展
+
+企业的发展离不开信贷，穷人没有充足的抵押物，因此无法得到贷款  
+不平等自我加强
+
+#### 不平等降低全社会人力资本积累速度
+
+在多数国家，教育的边际回报上升较快的阶段是更昂贵的
+
+#### 不平等和生育率
+
+#### 不平等导致过度分配
+
+中位数收入低于平均收入  
+则在多数投票原则下，中位投票者倾向于多的再分配
+
+#### 资源与生产力之间的错配
+
+在高度不平等的社会中，为了保住自己的统治地位，政府就必然要把更多的资源分给强势集团，这会导致资源错配
+
+#### 社会和谐
+
+主观幸福感影响政策制定过程的争斗
+
+#### 结论
+
+[TED Thomas Piketty](https://www.bilibili.com/video/BV1A54y1z7Wr/)
+
+## 议题
+
+### 共同富裕
+
+### 制度和文化
+
+[左雪静](https://sites.google.com/site/sharonxuejingzuo/) 和 Elaine M. Liu 针对汉族和摩梭族儿童成长的跟踪调查  
+[Liu, Elaine M., and Sharon Xuejing Zuo, “Measuring the impact of interaction between children of a matrilineal and a patriarchal culture on gender differences in risk aversion,” Proceedings of the National Academy of Sciences, 116 (2019), 6713–6719.](https://www.pnas.org/doi/epdf/10.1073/pnas.1808336116)
