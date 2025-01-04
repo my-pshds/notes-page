@@ -83,7 +83,7 @@ const config = {
 
       algolia: {
         appId: "MU8MMAXGJ6",
-        apiKey: "7aa15501475a6a6fd6ef8a3beeb06f81",
+        apiKey: "117ba9d7cc15cf4d8d956b7abe796f4b",
         indexName: "academic-pengxianzhe",
       },
 
