@@ -42,7 +42,7 @@ const config = {
         {
           docs: {
             sidebarCollapsed: true,
-            routeBasePath: '/',
+            routeBasePath: '/docs',
             sidebarPath: './sidebars.js',
             remarkPlugins: [remarkMath],
             rehypePlugins: [
