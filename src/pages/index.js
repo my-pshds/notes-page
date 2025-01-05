@@ -31,6 +31,8 @@ function HomepageHeader() {
             专栏｜BLOG
           </Link>
         </div>
+        <br></br>
+        <p>注意：当前站内搜索功能出现严重问题，暂未修复。</p>
       </div>
     </header>
   );
