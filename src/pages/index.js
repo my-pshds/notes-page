@@ -32,7 +32,7 @@ function HomepageHeader() {
           </Link>
         </div>
         <br></br>
-        <p>注意：当前站内搜索功能出现严重问题，暂未修复。</p>
+        <p style={{orphans: 2}}>当前站内搜索功能出现严重问题，无望修复，需要新引擎替代。旧有搜索功能已撤下，新引擎正在配置中。</p>
       </div>
     </header>
   );

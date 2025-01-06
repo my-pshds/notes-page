@@ -81,12 +81,6 @@ const config = {
         }
       },
 
-      algolia: {
-        appId: "MU8MMAXGJ6",
-        apiKey: "8accb12dfda52032f89ce7cb625b13f8",
-        indexName: "academic-pengxianzhe",
-      },
-
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,
