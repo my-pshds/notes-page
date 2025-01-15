@@ -1,8 +1,0 @@
-position: 4
-label: 经济｜本科听课
-collapsible: true # make the category collapsible
-collapsed: true # keep the category open by default
-link:
-  type: generated-index
-  title: 本科《经济思想史》上课笔记
-  description: 这是我在甲辰年秋季学期修读《经济思想史》的笔记，任课教师是华东师大经济系 Faculty 王媛｜请注意华东师大经管学科群有两位同名同姓的 Faculty 王媛，这是经济类学科的

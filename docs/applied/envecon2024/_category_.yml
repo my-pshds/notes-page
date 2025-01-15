@@ -1,8 +1,0 @@
-position: 3
-label: Env Econ 2024
-collapsible: true # make the category collapsible
-collapsed: true # keep the category open by default
-link:
-  type: generated-index
-  title: 新古典环境经济学
-  description: 我在甲辰年秋季学期修读《环境经济学》的笔记｜任课教师是华东师大经济系 Faculty 欧阳晓灵
