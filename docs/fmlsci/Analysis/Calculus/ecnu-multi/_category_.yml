@@ -1,8 +1,0 @@
-position: 2
-label: 华师大数分三
-collapsible: true # make the category collapsible
-collapsed: true # keep the category open by default
-link:
-  type: generated-index
-  title: 数学分析（三）
-  description: 我在甲辰年秋季学期修读《数学分析 III》的笔记，任课教师是华东师大统计学院 Faculty 王亚平
