@@ -1,0 +1,8 @@
+position: 2
+label: 常微分方程
+collapsible: true # make the category collapsible
+collapsed: true # keep the category open by default
+link:
+  type: generated-index
+  title: 常微分方程｜ODE
+  description: 如果没有了微分方程，物理系和经济系对数院的尊敬会少一半

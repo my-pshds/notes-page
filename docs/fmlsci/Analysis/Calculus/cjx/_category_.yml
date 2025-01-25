@@ -4,5 +4,5 @@ collapsible: true # make the category collapsible
 collapsed: true # keep the category open by default
 link:
   type: generated-index
-  title: 陈纪修数学分析 | 看书
+  title: 陈纪修数学分析
   description: 对新手友好，简体中文

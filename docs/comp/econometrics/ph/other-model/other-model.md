@@ -2,6 +2,7 @@
 title: 其他模型
 description: 八＆十＆十一
 sidebar_positition: 4
+hide_title: true
 ---
 
 ## 虚拟变量

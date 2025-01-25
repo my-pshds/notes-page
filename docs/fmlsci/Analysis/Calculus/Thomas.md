@@ -1,5 +1,5 @@
 ---
-title: 托马斯微积分 | 看书
+title: 托马斯微积分
 description: 很有基础教育价值和科普价值
 sidebar_position: 1
 ---

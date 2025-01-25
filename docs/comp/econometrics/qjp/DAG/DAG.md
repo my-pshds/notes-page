@@ -1,5 +1,6 @@
 ---
 title: 因果图
+hide_title: true
 description: 第一章
 sidebar_position: 1
 ---

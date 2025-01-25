@@ -2,6 +2,7 @@
 title: 线性回归
 description: 二＆三＆七
 sidebar_positition: 2
+hide_title: true
 ---
 
 ## 简单线性回归

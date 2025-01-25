@@ -4,5 +4,5 @@ collapsible: true # make the category collapsible
 collapsed: true # keep the category open by default
 link:
   type: generated-index
-  title: 普林斯顿分析读本 | 看书
+  title: 普林斯顿分析读本
   description: 挽救遭 Rudin 折磨的人
