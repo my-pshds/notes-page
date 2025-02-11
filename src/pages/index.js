@@ -16,6 +16,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p  style={{orphans: 2, fontSize: '1.4em'}}><strong>2025年暂停更新</strong></p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -32,7 +33,7 @@ function HomepageHeader() {
           </Link>
         </div>
         <br></br>
-        <p style={{orphans: 2}}>当前站内搜索功能出现严重问题，无望修复，需要新引擎替代。旧有搜索功能已撤下，新引擎正在配置中。</p>
+        <p>当前站内搜索功能出现严重问题，无望修复，需要新引擎替代。旧有搜索功能已撤下，新引擎正在配置中。</p>
       </div>
     </header>
   );
