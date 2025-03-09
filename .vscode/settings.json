@@ -1,7 +1,7 @@
 {
     "docsifyPreview.indexFile": "/docs/index.html",
     "marscode.codeCompletionPro": {
-        "enableCodeCompletionPro": true
+        "enableCodeCompletionPro": false
     },
     "marscode.enableInlineCommand": true
 }
