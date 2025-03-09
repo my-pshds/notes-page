@@ -94,13 +94,29 @@ $$
 设 $\{A_n = n \geqslant 1\}$ 为任一集列，问下面等式是否成立
 
 $(1) \quad
+\underset{n \to \infty}{\overline{\lim}}A_n
+= \left(
+    \underset{n \to \infty}{\overline{\lim}}
+    A_{2n-1}\right)\cup
+\left(
+    \underset{n \to \infty}{\overline{\lim}}
+    A_{2n}\right)$
+
+$(2) \quad
+\underset{n \to \infty}{\underline{\lim}}A_n
+= \left(
+    \underset{n \to \infty}{\underline{\lim}}
+    A_{2n-1}\right)\cap
+\left(
+    \underset{n \to \infty}{\underline{\lim}}
+    A_{2n}\right)
 $
 
 ---
 
 #### 练习 1.6
 
-设下列涉及的集合都是全集 X 的子集，求证
+设下列涉及的集合都是全集 $X$ 的子集，求证
 
 $(1)\quad \chi_X (x)=1 \qquad
 \chi_\varnothing =0$
@@ -130,13 +146,37 @@ $
 
 #### 练习 1.7
 
+记有理数集为 $\mathbb{Q}$  
+设 $f, g$ 皆为 X 上的实值函数，求证
+$$
+\Big\{x \in X: f(x)>g(x)\Big\}=\bigcup_{r \in \mathbb{Q}}
+\bigg(
+\Big\{x \in X: f(x)>r\Big\}>\Big\{x \in X: g(x)<r\Big\}
+\bigg)
+$$
+
 ---
 
 #### 练习 1.8
 
+设 $A=\{(x,y): x^2+y^2\leqslant 1\}, B=\{(x,y): x^2+y^2<1\}$
+
+求证 &emsp; $A$ 和 $B$ 对等 &emsp; $A \backslash B$ 与 $\mathbb{R}^1$ 对等
+
 ---
 
 #### 练习 1.9
+
+设 $A$ 是 $\mathbb{R}^1$ 中的非空集合
+
+求证集合
+$
+B=\Big\{
+    x \in A: \exists \ \delta_x>0 \text{ 使得 }
+    \big(x,x+\delta_x\big)\cap A=\varnothing
+\Big\}
+$
+是可数集
 
 ---
 
