@@ -15,7 +15,7 @@ import TOCInline from '@theme/TOCInline';
 
 #### 练习 1.1
 
-设 $f(x)$ 是定义在 E 上的实值函数，求证
+设 $f(x)$ 是定义在 $E$ 上的实值函数，求证
 
 $$
 \begin{aligned}
@@ -24,9 +24,7 @@ $$
 \{x \in E: f(x)>a \}
     &= \bigcup^{\infty}_{n=1}
         \left\{x \in E: f(x)>a+\dfrac{1}{n}\right\}
-\\
-\quad
-\\
+\\[0.5em]
 (2) \quad
 \{x \in E: f(x) \leqslant a \}
     &= \bigcap^{\infty}_{n=1}
@@ -35,6 +33,57 @@ $$
 $$
 
 证明：
+
+(1)
+
+先证等号左边属于右边即
+$
+\{x \in E: f(x)>a\} \sub \bigcup_{n=1}^\infty \left\{x\in E : f(x)>a+\dfrac{1}{n}\right\}
+$
+
+$\forall x_0 \in \{x \in E: f(x)>a\}$
+
+有 $f(x_0)>a$ 也即 $\exists y_0 \in (0,+\infty)$ 使得 $f(x_0)>a+y_0$
+
+取 $n_0= \lfloor \dfrac{1}{y_0}\rfloor+1$ 则 $y_0>\dfrac{1}{n_0}$
+
+$$
+f(x_0)>a+y_0>a+\dfrac{1}{n_0} \\[0.5em]
+x_0 \in \left\{x \in E: f(x)>a+\dfrac{1}{n_0}\right\} \\[0.5em]
+\Rightarrow x_0 \in \bigcup^{\infty}_{n=1}
+        \left\{x \in E: f(x)>a+\dfrac{1}{n}\right\}
+$$
+
+即 $\forall x_0 \in \{x \in E: f(x)>a\}$ 有 $x_0 \in \bigcup_{n=1}^\infty \{x\in E : f(x)>a+\dfrac{1}{n}\}$
+
+$$
+\Rightarrow \{x \in E: f(x)>a\} \sub \bigcup_{n=1}^\infty \left\{x\in E : f(x)>a+\dfrac{1}{n}\right\}
+$$
+
+再证等号右边属于左边即 $\bigcup_{n=1}^\infty \left\{x\in E: f(x)>a+\dfrac{1}{n}\right\} \sub \left\{x\in E: f(x)>a\right\}$
+
+$f(x)>a+\dfrac{1}{n}>a$ 即对 $\forall n \in \mathbb{Z}_+$ 有
+
+$$
+\text{若 } 
+x_1 \in \left\{x\in E: f(x)>a+\dfrac{1}{n}\right\}
+\text{ 则 }
+x_1 \in \left\{x\in E: f(x)>a\right\}
+\\[0.5em] \Rightarrow
+\text{若 } 
+x_2 \in \bigcup_{n=1}^\infty \left\{x\in E: f(x)>a+\dfrac{1}{n}\right\}
+\text{ 则 } 
+x_2 \in \left\{x\in E: f(x)>a\right\}
+\\[0.5em]
+\Rightarrow \bigcup_{n=1}^\infty \left\{x\in E: f(x)>a+\dfrac{1}{n}\right\} \sub \left\{x\in E: f(x)>a\right\}
+$$
+
+(2)
+
+先证等号左边属于右边即
+$\{x \in E: f(x) \leqslant a \}
+    \sub \bigcap^{\infty}_{n=1}
+        \left\{x \in E: f(x)\leqslant a +\dfrac{1}{n}\right\}$
 
 
 
