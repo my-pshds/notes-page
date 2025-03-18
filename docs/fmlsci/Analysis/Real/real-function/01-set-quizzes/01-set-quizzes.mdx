@@ -65,14 +65,14 @@ $$
 $f(x)>a+\dfrac{1}{n}>a$ 即对 $\forall n \in \mathbb{Z}_+$ 有
 
 $$
-\text{若 } 
+若\
 x_1 \in \left\{x\in E: f(x)>a+\dfrac{1}{n}\right\}
-\text{ 则 }
+则\
 x_1 \in \left\{x\in E: f(x)>a\right\}
 \\[0.5em] \Rightarrow
-\text{若 } 
+若\
 x_2 \in \bigcup_{n=1}^\infty \left\{x\in E: f(x)>a+\dfrac{1}{n}\right\}
-\text{ 则 } 
+则\
 x_2 \in \left\{x\in E: f(x)>a\right\}
 \\[0.5em]
 \Rightarrow \bigcup_{n=1}^\infty \left\{x\in E: f(x)>a+\dfrac{1}{n}\right\} \sub \left\{x\in E: f(x)>a\right\}
@@ -92,6 +92,21 @@ $\bigcap^{\infty}_{n=1}
 \sub
 \{x \in E: f(x) \leqslant a \}
 $
+
+$$
+设\ x_1 \notin \{x \in E: f(x) \leqslant a \}
+\ 即\ x_1>a \\[0.5em]
+则\ \exists\ \varepsilon >0 \ 使得\ x_1>a+\varepsilon \\[0.5em]
+\Rightarrow \exists\ n_1 \in \mathbb{N}_+ \ 使得\ x_1>a+\dfrac{1}{n_1} \\[0.5em]
+\Rightarrow x_1 \notin \left\{x \in E: f(x)\leqslant a +\dfrac{1}{n_1}\right\} \\
+\Rightarrow x_1 \notin \bigcap^{\infty}_{n=1}
+\left\{x \in E: f(x)\leqslant a +\dfrac{1}{n}\right\}
+\\[0.5em]
+以上由反证法（逆否命题）知\bigcap^{\infty}_{n=1}
+        \left\{x \in E: f(x)\leqslant a +\dfrac{1}{n}\right\}
+\sub
+\{x \in E: f(x) \leqslant a \}
+$$
 
 
 
