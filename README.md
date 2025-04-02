@@ -4,7 +4,7 @@
 
 ### 框架
 
-使用 [Docusaurus](https://docusaurus.io/zh-CN/){} 构建。  
+使用 <a href="https://docusaurus.io/zh-CN/" target="_blank" rel="noopener noreferrer">Docusaurus</a> 构建。  
 这是 Facebook 开源的一套站点前端框架，它的目录结构处理功能在我看来非常全，在与一切其他 Markdown 网站框架的比拼中胜出。
 
 ### 语言
