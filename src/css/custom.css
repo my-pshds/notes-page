@@ -7,7 +7,7 @@
 /* You can override the default Infima variables here. */
 
 :root { 
-  --doc-sidebar-width: 227px !important;
+  --doc-sidebar-width: 240px !important;
   --doc-toc-width: 280px !important;
   --ifm-container-width: 945px !important;
   --ifm-container-width-xl: 2200px !important;
@@ -30,7 +30,7 @@
   width: var(--doc-toc-width);
 }
 
-/* 这是blog作者头像旁的三排 */
+/* 这是blog作者头像旁的三排的宽度 */
 .margin-bottom--sm.row {
   width: 300px
 }

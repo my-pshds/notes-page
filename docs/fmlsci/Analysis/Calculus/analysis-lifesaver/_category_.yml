@@ -1,5 +1,5 @@
 position: 3
-label: 分析 Lifesaver
+label: Lifesaver
 collapsible: true # make the category collapsible
 collapsed: true # keep the category open by default
 link:
