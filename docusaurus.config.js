@@ -137,7 +137,7 @@ const config = {
             title: '跨域跨站',
             items: [
               {
-                label: 'Link Card｜名片',
+                label: '大平台链接',
                 href: 'https://link.pengxianzhe.org',
               }
             ],
@@ -146,7 +146,7 @@ const config = {
             title: '本域跨站',
             items: [
               {
-                label: 'Academic Profile',
+                label: 'Academic Bio',
                 href: 'https://profile.pengxianzhe.org',
               }
             ],
