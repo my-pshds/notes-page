@@ -45,7 +45,7 @@ export default function Home() {
     <Layout
       title={`欢迎来客`
       }
-      description="PengXianZhe's Note's Website">
+      description="@pshds's Note's Website">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
