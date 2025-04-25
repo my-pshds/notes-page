@@ -1,6 +1,7 @@
 ---
 slug: xqs
 title: 新清史简述
+date: 2024-08-20
 authors: pxz
 tags: [zggdzzs]
 ---
