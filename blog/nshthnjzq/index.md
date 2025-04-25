@@ -4,7 +4,7 @@ title: 南宋以降环太湖农业技术进步之要素增强
 date: 2024-07-19
 description: 土地增强型，而非劳动增强型
 authors: pxz
-tags: [zggdjjs]
+tags: [setaside,zggdjjs]
 ---
 
 　　受限于文字清晰记载的史料和农业史学家已有的研究文献限制，本文暂时只能确定地讨论太湖平原及周边的情形。

@@ -130,6 +130,10 @@ const config = {
                 label: '专栏作者',
                 to: '/blog/authors',
               },
+              {
+                label: '专栏标签',
+                to: '/blog/tags',
+              },
               
             ],
           },

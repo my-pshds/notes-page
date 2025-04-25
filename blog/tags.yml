@@ -7,3 +7,8 @@ zggdzzs:
   label: 中国古代政治史
   permalink: /zggdzzs
   description: 古典中国的官僚和国家
+
+setaside:
+  label: 暂时搁置
+  permalink: /setaside
+  description: 将来会写完的，现在来不及写
