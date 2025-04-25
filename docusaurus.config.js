@@ -146,7 +146,7 @@ const config = {
             title: '本域跨站',
             items: [
               {
-                label: 'Academic Bio',
+                label: 'Résumé',
                 href: 'https://profile.pengxianzhe.org/bio/',
               }
             ],
