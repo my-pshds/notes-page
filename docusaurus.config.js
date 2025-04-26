@@ -22,7 +22,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Cynthian-pshds', // Usually your GitHub org/user name.
+  organizationName: 'my-pshds', // Usually your GitHub org/user name.
   projectName: 'academic-pengxianzhe', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -113,7 +113,7 @@ const config = {
           {to: '/blog', label: '专栏', position: 'right'},
           
           {
-            href: 'https://github.com/Cynthian-pshds/notes-page/',
+            href: 'https://github.com/my-pshds/notes-page/',
             label: '源代码',
             position: 'right',
           },
