@@ -11,9 +11,9 @@ const FeatureList = [
     SvgDark: require('@site/static/img/形式科学_dark.svg').default,
     description: (
       <>
-        分析｜函数论 & 微分方程 <br></br>
-        代数｜矩阵论 & 线性代数 <br></br>
-        算法｜最优化 & 动态规划 <br></br>
+        分析｜连续函数 & 微分方程 <br></br>
+        代数｜线性代数 & 矩阵分析<br></br>
+        算法｜数值优化 & 动态规划 <br></br>
       </>
     ),
   },
@@ -23,8 +23,8 @@ const FeatureList = [
     SvgDark: require('@site/static/img/社会科学_dark.svg').default,
     description: (
       <>
-        应用｜劳动经济学 & 家庭决策<br></br>
-        交叉｜中国经济史 & 计量史学<br></br>
+        应用｜劳动经济学 & 家庭行为<br></br>
+        交叉｜中国政治史 & 计量史学<br></br>
         理论｜商品和资本 & 现代古典
       </>
     ),
