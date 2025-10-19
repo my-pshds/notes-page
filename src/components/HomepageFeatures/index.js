@@ -23,8 +23,8 @@ const FeatureList = [
     SvgDark: require('@site/static/img/社会科学_dark.svg').default,
     description: (
       <>
-        应用｜劳动经济学 & 家庭行为<br></br>
-        交叉｜中国政治史 & 计量史学<br></br>
+        应用｜劳动经济学 & 当代人口<br></br>
+        交叉｜微观中国史 & 计量史学<br></br>
         理论｜商品和资本 & 现代古典
       </>
     ),
