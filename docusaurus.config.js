@@ -23,11 +23,16 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'my-pshds', // Usually your GitHub org/user name.
-  projectName: 'academic-pengxianzhe', // Usually your repo name.
-
+  projectName: 'notes-page', // Usually your repo name.
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
+  // onBrokenMarkdownLinks: 'warn', // 2025年10月20日根据Docusaurus升级到v4的警告提示而移除
+  markdown: {
+    // 2025年10月20日根据Docusaurus升级到v4的警告提示而增加
+    // 3. 在 markdown 内部添加新的配置
+    hooks: {
+      onBrokenMarkdownLinks: 'warn', // 2025年10月20日根据Docusaurus升级到v4的警告提示而增加
+    },
+  },
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -150,11 +155,15 @@ const config = {
             title: '本域跨站',
             items: [
               {
+                label: '我是谁',
+                to: 'https://profile.pengxianzhe.org/bio/',
+              },
+              {
                 label: 'Résumé',
-                href: 'https://profile.pengxianzhe.org/bio/',
+                href: '/404',
               }
-            ],
-          },
+            ]
+          }
         ],
         copyright: `本站创建在&thinsp;2024&thinsp;年&thinsp;4&thinsp;月，最近一次更新是&thinsp;${new Date().getFullYear()}&thinsp;年&thinsp;${new Date().getMonth() + 1}&thinsp;月&thinsp;${new Date().getDate()}&thinsp;日
         <br>如果有任何链接失效，可在源代码库提出&thinsp;Issue`,
