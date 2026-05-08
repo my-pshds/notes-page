@@ -156,7 +156,7 @@ const config = {
             items: [
               {
                 label: '我是谁',
-                to: 'https://profile.pengxianzhe.org/bio/',
+                to: 'https://pro.pengxianzhe.org/bio/',
               },
               {
                 label: 'Résumé',
