@@ -11,9 +11,7 @@ const FeatureList = [
     SvgDark: require('@site/static/img/形式科学_dark.svg').default,
     description: (
       <>
-        分析｜连续函数 & 微分方程 <br></br>
-        代数｜线性代数 & 矩阵分析<br></br>
-        算法｜数值优化 & 动态规划
+        分析＆代数＆算法
       </>
     ),
   },
@@ -23,9 +21,7 @@ const FeatureList = [
     SvgDark: require('@site/static/img/社会科学_dark.svg').default,
     description: (
       <>
-        应用｜劳动经济学 & 当代人口<br></br>
-        交叉｜微观中国史 & 计量史学<br></br>
-        理论｜商品和资本 & 现代古典
+        应用＆交叉＆理论
       </>
     ),
   },
@@ -35,9 +31,7 @@ const FeatureList = [
     SvgDark: require('@site/static/img/工程技术_dark.svg').default,
     description: (
       <>
-        验证计算｜看关系 & 因果推断<br></br>
-        机器学习｜决策树 & 神经网络<br></br>
-        模拟计算｜搭结构 & 数值仿真
+        验证＆学习＆模拟
       </>
     ),
   },
